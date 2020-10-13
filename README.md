@@ -1,5 +1,5 @@
 # CombustionNet
-Design a Benchmark Dataset for Deep Learning in Combustion Research Inspired by ImageNet
+Design a Benchmark Dataset for Deep Learning in Combustion Research Inspired by ImageNet. This project is motivated to design a benchmark dataset serves as MNIST and ImageNet for the research and education of deep learning in combustion. The problem should be easy to understand and anyone without much combustion knowledge can set up the problem within couple hours. Meanwhile, the problem should be challanging in a sense that a mature deep learning model won't work that much perfert, such that there is a lot of room to improve the model.
 
 # Collection of existing dataset
 ** [ECNet: scalable, retrainable and deployable machine learning projects for fuel property prediction](https://github.com/ECRL/ECNet) **
